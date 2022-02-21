@@ -45,6 +45,6 @@
     </div>
     <div class="footer-bottom">
         <h5>Copyright 2016. All rights reserved.</h5>
-        <h6>Design and Developed by <a href="">Themefisher</a></h6>
+        <h6>Developed by <a href="https://www.facebook.com/taufiqursabbirr/">Taufiqur Sabbir</a></h6>
     </div>
 </footer> <!-- end footer -->
